@@ -4,6 +4,11 @@ Este projeto é um **Gerenciador de Tarefas** desenvolvido com **React** e tem c
 
 ---
 
+> 🔗 **Deploy:** [react-gerenciador-de-tarefas-nadieles-projects.vercel.app](https://react-gerenciador-de-tarefas-nadieles-projects.vercel.app/)  
+> 📦 **Repositório:** [github.com/nadiele99/react-gerenciador-de-tarefas](https://github.com/nadiele99/react-gerenciador-de-tarefas.git)
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - ⚛️ [React](https://reactjs.org/)
@@ -76,3 +81,7 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
+
+
+🧠 Aprendizado
+Este projeto foi desenvolvido como prática para fixação dos conceitos iniciais de React, explorando na prática desde a criação de componentes até o deploy final. Foi essencial para reforçar fundamentos e exercitar a construção de uma SPA organizada e funcional.
