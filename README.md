@@ -81,7 +81,3 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
-
-
-🧠 Aprendizado
-Este projeto foi desenvolvido como prática para fixação dos conceitos iniciais de React, explorando na prática desde a criação de componentes até o deploy final. Foi essencial para reforçar fundamentos e exercitar a construção de uma SPA organizada e funcional.
